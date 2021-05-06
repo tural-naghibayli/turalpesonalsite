@@ -1,0 +1,30 @@
+body{
+  background-color: #f0ece3;
+}
+
+hr {
+  background-color: transparent;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 5%;
+  height: 0px;
+}
+
+h1{
+  color: #24a19c;
+}
+
+h3{
+  color: #24a19c;
+}
+
+.photo{
+  height: 100px;
+  width: 100x
+}
+
+.circular{
+  border-radius: 100%;
+}
